@@ -20,11 +20,4 @@ Geração de Certificado e Contracheque:
 Após atingir a nota média, gera-se um certificado específico para o eBook.
 Um certificado é gerado.
 ### Estrutura do Código
-main.go
-Ponto de entrada da aplicação.
-Configura o servidor e define as rotas.
-Endpoints
-GET /perguntas/{ebookID}
-Retorna as perguntas relacionadas ao eBook específico.
-POST /responder
-Recebe as respostas do usuário, calcula a nota e determina se ele passou.
+
